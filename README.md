@@ -8,6 +8,7 @@ A implementação foi realizada em Python, utilizando as bibliotecas TensorFlow 
 
 ### Autor
 Rômulo Lima Siqueira
+
 Universidade: Unisinos POA
 
 Disciplina: Inteligência Artificial e Aprendizado de Máquina
