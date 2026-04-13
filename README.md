@@ -7,8 +7,7 @@ Este trabalho tem como objetivo desenvolver, treinar e comparar modelos de redes
 A implementação foi realizada em Python, utilizando as bibliotecas TensorFlow e Keras, com execução no ambiente Google Colab. Foram desenvolvidas duas abordagens principais: uma rede CNN construída e treinada do zero, e outra baseada em transfer learning, utilizando o modelo pré-treinado ResNet50.
 
 ### Autor
-Rômulo Lima Siqueira - Inteligência Artificial e Aprendizado de Máquina
-
+Rômulo Lima Siqueira
 Universidade: Unisinos POA
 
 Disciplina: Inteligência Artificial e Aprendizado de Máquina
